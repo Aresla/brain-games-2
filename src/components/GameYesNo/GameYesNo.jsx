@@ -59,8 +59,8 @@ export class GameYesNo extends React.Component {
                         <Typography.Title level={2}>{question}</Typography.Title>
                         <br />
                         <div>
-                            <Button type="primary" size='large' shape="round" onClick={(e) => this.handleButtonClick(e, true)}>YES</Button>
-                            <Button type="primary" size='large' shape="round" onClick={(e) => this.handleButtonClick(e, false)}>NO</Button>
+                            <Button type="primary" size='large' shape="round" className="yesNoButton" onClick={(e) => this.handleButtonClick(e, true)}>YES</Button>
+                            <Button type="primary" size='large' shape="round"  className="yesNoButton" onClick={(e) => this.handleButtonClick(e, false)}>NO</Button>
                         </div>
                     </>
 
@@ -73,6 +73,7 @@ export class GameYesNo extends React.Component {
                         <br />
                         <div>
                             <Button type="primary" size='large' shape="round" icon={<UndoOutlined />} onClick={(e) => this.handleGameRepeat(e)}>ONCE AGAIN</Button>
+                            <br />
                             <br />
                             <Button type="primary" size='large' shape="round" icon={<ArrowRightOutlined />} onClick={(e) => this.handleGameRestart(e)}>NEW ROUND</Button>
                         </div>

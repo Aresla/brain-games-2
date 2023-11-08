@@ -85,6 +85,7 @@ export class GameWithInput extends React.Component {
                         <div>
                             <Button type="primary" size='large' shape="round" icon={<UndoOutlined />} onClick={(e) => this.handleGameRepeat(e)}>ONCE AGAIN</Button>
                             <br />
+                            <br />
                             <Button type="primary" size='large' shape="round" icon={<ArrowRightOutlined />} onClick={(e) => this.handleGameRestart(e)}>NEW ROUND</Button>
                         </div>
                     </>
