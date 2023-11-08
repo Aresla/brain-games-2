@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.bf226761.css",
-    "main.js": "/react-gh-pages/static/js/main.e9a684ce.js",
-    "static/js/787.7bad6ee5.chunk.js": "/react-gh-pages/static/js/787.7bad6ee5.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.bf226761.css.map": "/react-gh-pages/static/css/main.bf226761.css.map",
-    "main.e9a684ce.js.map": "/react-gh-pages/static/js/main.e9a684ce.js.map",
-    "787.7bad6ee5.chunk.js.map": "/react-gh-pages/static/js/787.7bad6ee5.chunk.js.map"
+    "main.css": "/brain-games-2/static/css/main.bf226761.css",
+    "main.js": "/brain-games-2/static/js/main.48856067.js",
+    "static/js/787.7bad6ee5.chunk.js": "/brain-games-2/static/js/787.7bad6ee5.chunk.js",
+    "index.html": "/brain-games-2/index.html",
+    "main.bf226761.css.map": "/brain-games-2/static/css/main.bf226761.css.map",
+    "main.48856067.js.map": "/brain-games-2/static/js/main.48856067.js.map",
+    "787.7bad6ee5.chunk.js.map": "/brain-games-2/static/js/787.7bad6ee5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf226761.css",
-    "static/js/main.e9a684ce.js"
+    "static/js/main.48856067.js"
   ]
 }
