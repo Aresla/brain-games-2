@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/brain-games-2/static/css/main.bf226761.css",
-    "main.js": "/brain-games-2/static/js/main.48856067.js",
+    "main.css": "/brain-games-2/static/css/main.058769ef.css",
+    "main.js": "/brain-games-2/static/js/main.75e15e97.js",
     "static/js/787.7bad6ee5.chunk.js": "/brain-games-2/static/js/787.7bad6ee5.chunk.js",
     "index.html": "/brain-games-2/index.html",
-    "main.bf226761.css.map": "/brain-games-2/static/css/main.bf226761.css.map",
-    "main.48856067.js.map": "/brain-games-2/static/js/main.48856067.js.map",
+    "main.058769ef.css.map": "/brain-games-2/static/css/main.058769ef.css.map",
+    "main.75e15e97.js.map": "/brain-games-2/static/js/main.75e15e97.js.map",
     "787.7bad6ee5.chunk.js.map": "/brain-games-2/static/js/787.7bad6ee5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf226761.css",
-    "static/js/main.48856067.js"
+    "static/css/main.058769ef.css",
+    "static/js/main.75e15e97.js"
   ]
 }
