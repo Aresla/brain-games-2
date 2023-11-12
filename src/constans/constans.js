@@ -1,4 +1,4 @@
-export const welcomeMessage = 'Welcome to Brain Games';
+export const welcomeMessage = 'Welcome to the Brain Games';
 
 export const evenGameDescription = "If number is EVEN - answer 'YES', otherwise answer 'NO'.";
 
